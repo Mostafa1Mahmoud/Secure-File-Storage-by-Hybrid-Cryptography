@@ -54,6 +54,6 @@ To Print The help menu:
 `python3 main.py --help`
 
 ## Teammates
-- https://github.com/Mostafa1Mahmoud
+- https://github.com/m1m0n
 - https://github.com/mohamed-ali-5050
 - https://github.com/muhammedhani
